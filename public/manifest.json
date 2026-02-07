@@ -1,0 +1,16 @@
+{
+  "name": "고속도로 휴게소 정보",
+  "short_name": "휴게소 정보",
+  "description": "전국 고속도로 휴게소 맛집, 편의시설, 대표 메뉴 정보",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

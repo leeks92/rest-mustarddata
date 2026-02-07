@@ -1,0 +1,1555 @@
+[
+  {
+    "name": "경부선",
+    "slug": "gyeongbu",
+    "restAreas": [
+      {
+        "name": "서울만남",
+        "slug": "seoulmannam-busan",
+        "direction": "부산",
+        "bestFood": "말죽거리소고기국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "죽전",
+        "slug": "jugjeon-seoul",
+        "direction": "서울",
+        "bestFood": "용인특산품영양밥정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "기흥",
+        "slug": "giheung-busan",
+        "direction": "부산",
+        "bestFood": "수제등심돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "안성",
+        "slug": "anseong-seoul",
+        "direction": "서울",
+        "bestFood": "한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "안성",
+        "slug": "anseong-busan",
+        "direction": "부산",
+        "bestFood": "안성국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "망향",
+        "slug": "manghyang-busan",
+        "direction": "부산",
+        "bestFood": "명품한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "옥산",
+        "slug": "ogsan-busan",
+        "direction": "부산",
+        "bestFood": "표고소고기국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "천안삼거리",
+        "slug": "ceonansamgeori-seoul",
+        "direction": "서울",
+        "bestFood": "해주비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "천안호두",
+        "slug": "ceonanhodu-busan",
+        "direction": "부산",
+        "bestFood": "호두과자(3,000 ~ 24,000원)",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "죽암",
+        "slug": "jugam-seoul",
+        "direction": "서울",
+        "bestFood": "수제돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "죽암",
+        "slug": "jugam-busan",
+        "direction": "부산",
+        "bestFood": "보은대추왕갈비탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "금강",
+        "slug": "geumgang-busan",
+        "direction": "부산",
+        "bestFood": "금강도리뱅뱅정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "옥천",
+        "slug": "ogceon-seoul",
+        "direction": "서울",
+        "bestFood": "한방닭곰탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "황간",
+        "slug": "hwanggan-seoul",
+        "direction": "서울",
+        "bestFood": "영표국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "황간",
+        "slug": "hwanggan-busan",
+        "direction": "부산",
+        "bestFood": "영표국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "입장거봉포도",
+        "slug": "ibjanggeobongpodo-seoul",
+        "direction": "서울",
+        "bestFood": "흑돼지김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "추풍령",
+        "slug": "cupungryeong-seoul",
+        "direction": "서울",
+        "bestFood": "(실속)통등심돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "추풍령",
+        "slug": "cupungryeong-busan",
+        "direction": "부산",
+        "bestFood": "(실속)통등심돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "칠곡",
+        "slug": "cilgog-seoul",
+        "direction": "서울",
+        "bestFood": "따로국밥정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "경산",
+        "slug": "gyeongsan-seoul",
+        "direction": "서울",
+        "bestFood": "돼지김치찌게",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "평사",
+        "slug": "pyeongsa-busan",
+        "direction": "부산",
+        "bestFood": "대구따로국밥정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "칠곡",
+        "slug": "cilgog-busan",
+        "direction": "부산",
+        "bestFood": "자율식당",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "건천",
+        "slug": "geonceon-seoul",
+        "direction": "서울",
+        "bestFood": "돼지고기김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "건천",
+        "slug": "geonceon-busan",
+        "direction": "부산",
+        "bestFood": "누구나돌솥비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "언양",
+        "slug": "eonyang-seoul",
+        "direction": "서울",
+        "bestFood": "묵은지김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "언양",
+        "slug": "eonyang-busan",
+        "direction": "부산",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "신탄진",
+        "slug": "sintanjin-seoul",
+        "direction": "서울",
+        "bestFood": "도가니 설렁탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "옥천",
+        "slug": "ogceon-busan",
+        "direction": "부산",
+        "bestFood": "표고강된장열무보리비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "경주",
+        "slug": "gyeongju-busan",
+        "direction": "부산",
+        "bestFood": "경주천년한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "청주",
+        "slug": "ceongju-seoul",
+        "direction": "서울",
+        "bestFood": "청주소고기국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "양산",
+        "slug": "yangsan-seoul",
+        "direction": "서울",
+        "bestFood": "해양산 얼큰우동돼지국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "김천",
+        "slug": "gimceon-seoul",
+        "direction": "서울",
+        "bestFood": "영양제육볶음(공기밥)",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "김천",
+        "slug": "gimceon-busan",
+        "direction": "부산",
+        "bestFood": "촌돼지찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "서울하이패스센터쉼터",
+        "slug": "seoulhaipaeseusenteoswimteo",
+        "direction": "",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "통도사",
+        "slug": "tongdosa-busan",
+        "direction": "부산",
+        "bestFood": "1등급 한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "옥천만남",
+        "slug": "ogceonmannam",
+        "direction": "",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "기흥복합",
+        "slug": "giheungboghab",
+        "direction": "",
+        "bestFood": "한우국밥",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "서해안선",
+    "slug": "seohaean",
+    "restAreas": [
+      {
+        "name": "화성",
+        "slug": "hwaseong-seoul",
+        "direction": "서울",
+        "bestFood": "(실속)순두부청국장",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "화성",
+        "slug": "hwaseong-mogpo",
+        "direction": "목포",
+        "bestFood": "(실속상품)수제등심돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "행담도",
+        "slug": "haengdamdo",
+        "direction": "",
+        "bestFood": "<푸드오클락> 행담도소고기국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "대천",
+        "slug": "daeceon-seoul",
+        "direction": "서울",
+        "bestFood": "돌솥비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "대천",
+        "slug": "daeceon-mogpo",
+        "direction": "목포",
+        "bestFood": "돌솥비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "서산",
+        "slug": "seosan-seoul",
+        "direction": "서울",
+        "bestFood": "어리굴젓백반",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "서산",
+        "slug": "seosan-mogpo",
+        "direction": "목포",
+        "bestFood": "어리굴젓 백반",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "군산",
+        "slug": "gunsan-seoul",
+        "direction": "서울",
+        "bestFood": "울외불고기비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "군산",
+        "slug": "gunsan-mogpo",
+        "direction": "목포",
+        "bestFood": "옥구우거지국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "고창고인돌",
+        "slug": "gocanggoindol-seoul",
+        "direction": "서울",
+        "bestFood": "옛날돈까스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "고창고인돌",
+        "slug": "gocanggoindol-mogpo",
+        "direction": "목포",
+        "bestFood": "고창장어탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "함평천지",
+        "slug": "hampyeongceonji-mogpo",
+        "direction": "목포",
+        "bestFood": "바우네맑은 나주곰탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "함평천지",
+        "slug": "hampyeongceonji-seoul",
+        "direction": "서울",
+        "bestFood": "소고기장터국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "홍성",
+        "slug": "hongseong-seoul",
+        "direction": "서울",
+        "bestFood": "소고기국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "홍성",
+        "slug": "hongseong-mogpo",
+        "direction": "목포",
+        "bestFood": "소고기국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "서천",
+        "slug": "seoceon-seoul",
+        "direction": "서울",
+        "bestFood": "등심돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "서천",
+        "slug": "seoceon-mogpo",
+        "direction": "목포",
+        "bestFood": "된장찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "목감",
+        "slug": "moggam-seoul",
+        "direction": "서울",
+        "bestFood": "매직핫도그",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "부안하쉼터",
+        "slug": "buanhaswimteo",
+        "direction": "",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "부안상쉼터",
+        "slug": "buansangswimteo",
+        "direction": "",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "대산상쉼터",
+        "slug": "daesansangswimteo",
+        "direction": "",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "영광",
+        "slug": "yeonggwang-mogpo",
+        "direction": "목포",
+        "bestFood": "",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "청주영덕선",
+    "slug": "ceongjuyeongdeog",
+    "restAreas": [
+      {
+        "name": "속리산",
+        "slug": "sogrisan-ceongju",
+        "direction": "청주",
+        "bestFood": "보은사과왕돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "화서",
+        "slug": "hwaseo-yeongdeog",
+        "direction": "영덕",
+        "bestFood": "경양식돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "공주",
+        "slug": "gongju-daejeon",
+        "direction": "대전",
+        "bestFood": "알밤한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "공주",
+        "slug": "gongju-dangjin",
+        "direction": "당진",
+        "bestFood": "알밤 먹은 한우 국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "예산",
+        "slug": "yesan-daejeon",
+        "direction": "대전",
+        "bestFood": "예산사과버섯비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "예산",
+        "slug": "yesan-dangjin",
+        "direction": "당진",
+        "bestFood": "[양식]사과돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "면천",
+        "slug": "myeonceon-dangjin",
+        "direction": "당진",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "면천",
+        "slug": "myeonceon-daejeon",
+        "direction": "대전",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "신풍",
+        "slug": "sinpung-dangjin",
+        "direction": "당진",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "신풍",
+        "slug": "sinpung-daejeon",
+        "direction": "대전",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "상주",
+        "slug": "sangju-ceongweon",
+        "direction": "청원",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "상주",
+        "slug": "sangju-yeongdeog",
+        "direction": "영덕",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "의성",
+        "slug": "yiseong-ceongju",
+        "direction": "청주",
+        "bestFood": "경양식돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "의성",
+        "slug": "yiseong-yeongdeog",
+        "direction": "영덕",
+        "bestFood": "경양식돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "청송",
+        "slug": "ceongsong-ceongju",
+        "direction": "청주",
+        "bestFood": "청송 사과돈까스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "청송",
+        "slug": "ceongsong-yeongdeog",
+        "direction": "영덕",
+        "bestFood": "청송사과돈까스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "점곡",
+        "slug": "jeomgog-sangju",
+        "direction": "상주",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "점곡",
+        "slug": "jeomgog-yeongdeog",
+        "direction": "영덕",
+        "bestFood": "",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "중앙선",
+    "slug": "jungang",
+    "restAreas": [
+      {
+        "name": "홍천강",
+        "slug": "hongceongang-cunceon",
+        "direction": "춘천",
+        "bestFood": "얼큰황태순두부_주물솥밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "치악",
+        "slug": "ciag-busan",
+        "direction": "부산",
+        "bestFood": "등심돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "치악",
+        "slug": "ciag-cunceon",
+        "direction": "춘천",
+        "bestFood": "봉화산설렁탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "안동",
+        "slug": "andong-busan",
+        "direction": "부산",
+        "bestFood": "이동삼안동간고등어정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "안동",
+        "slug": "andong-cunceon",
+        "direction": "춘천",
+        "bestFood": "이동삼안동간고등어정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "군위",
+        "slug": "gunwi-busan",
+        "direction": "부산",
+        "bestFood": "의성마늘 돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "군위",
+        "slug": "gunwi-cunceon",
+        "direction": "춘천",
+        "bestFood": "의성마늘 돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "단양팔경",
+        "slug": "danyangpalgyeong-busan",
+        "direction": "부산",
+        "bestFood": "금강설렁탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "단양팔경",
+        "slug": "danyangpalgyeong-cunceon",
+        "direction": "춘천",
+        "bestFood": "마늘 왕 돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "춘천",
+        "slug": "cunceon-busan",
+        "direction": "부산",
+        "bestFood": "춘천버섯닭갈비정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "동명",
+        "slug": "dongmyeong-cunceon",
+        "direction": "춘천",
+        "bestFood": "돌솥비빔밥 된장찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "동명",
+        "slug": "dongmyeong-busan",
+        "direction": "부산",
+        "bestFood": "유부우동",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "원주",
+        "slug": "weonju-busan",
+        "direction": "부산",
+        "bestFood": "뽕잎콩나물비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "원주",
+        "slug": "weonju-cunceon",
+        "direction": "춘천",
+        "bestFood": "한우소고기국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "영주",
+        "slug": "yeongju-busan",
+        "direction": "부산",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "영주",
+        "slug": "yeongju-cunceon",
+        "direction": "춘천",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "제천",
+        "slug": "jeceon-cunceon",
+        "direction": "춘천",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "제천",
+        "slug": "jeceon-busan",
+        "direction": "부산",
+        "bestFood": "",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "중부내륙선",
+    "slug": "jungbunaeryug",
+    "restAreas": [
+      {
+        "name": "영산",
+        "slug": "yeongsan-cangweon",
+        "direction": "창원",
+        "bestFood": "소고기장터국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "칠서",
+        "slug": "cilseo-yangpyeong",
+        "direction": "양평",
+        "bestFood": "육개장",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "선산",
+        "slug": "seonsan-yangpyeong",
+        "direction": "양평",
+        "bestFood": "묵은지 김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "선산",
+        "slug": "seonsan-cangweon",
+        "direction": "창원",
+        "bestFood": "해물순두부찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "충주",
+        "slug": "cungju-yangpyeong",
+        "direction": "양평",
+        "bestFood": "새뱅이해물순두부",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "충주",
+        "slug": "cungju-cangweon",
+        "direction": "창원",
+        "bestFood": "충주(실속)사과돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "괴산",
+        "slug": "goesan-yangpyeong",
+        "direction": "양평",
+        "bestFood": "표고버섯비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "괴산",
+        "slug": "goesan-cangweon",
+        "direction": "창원",
+        "bestFood": "괴산올갱이국밥(명품먹거리)",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "문경",
+        "slug": "mungyeong-yangpyeong",
+        "direction": "양평",
+        "bestFood": "소고기국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "문경",
+        "slug": "mungyeong-cangweon",
+        "direction": "창원",
+        "bestFood": "문경약돌돼지김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "남성주참외",
+        "slug": "namseongjucamoe-cangweon",
+        "direction": "창원",
+        "bestFood": "조선짬뽕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "남성주참외",
+        "slug": "namseongjucamoe-yangpyeong",
+        "direction": "양평",
+        "bestFood": "돼지고기김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "서여주",
+        "slug": "seoyeoju-yangpyeong",
+        "direction": "양평",
+        "bestFood": "여주고구마등심돈까스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "서여주",
+        "slug": "seoyeoju-cangweon",
+        "direction": "창원",
+        "bestFood": "여주고구마등심돈까스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "성주",
+        "slug": "seongju-yangpyeong",
+        "direction": "양평",
+        "bestFood": "고추장제육볶음",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "성주",
+        "slug": "seongju-cangweon",
+        "direction": "창원",
+        "bestFood": "김치찌개",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "호남선",
+    "slug": "honam",
+    "restAreas": [
+      {
+        "name": "익산미륵사지",
+        "slug": "igsanmireugsaji-ceonan",
+        "direction": "천안",
+        "bestFood": "양파제육불고기",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "익산미륵사지",
+        "slug": "igsanmireugsaji-sunceon",
+        "direction": "순천",
+        "bestFood": "양파제육불고기",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "정읍녹두장군",
+        "slug": "jeongeubnogdujanggun-ceonan",
+        "direction": "천안",
+        "bestFood": "제육덮밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "정읍녹두장군",
+        "slug": "jeongeubnogdujanggun-sunceon",
+        "direction": "순천",
+        "bestFood": "정읍신가네귀리떡갈비정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "주암",
+        "slug": "juam-sunceon",
+        "direction": "순천",
+        "bestFood": "건봉국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "곡성",
+        "slug": "gogseong-ceonan",
+        "direction": "천안",
+        "bestFood": "깨비정식(1인분)",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "백양사",
+        "slug": "baegyangsa-ceonan",
+        "direction": "천안",
+        "bestFood": "삼채애호박찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "백양사",
+        "slug": "baegyangsa-sunceon",
+        "direction": "순천",
+        "bestFood": "(실속상품)삼채된장찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "주암",
+        "slug": "juam-ceonan",
+        "direction": "천안",
+        "bestFood": "건봉국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "곡성",
+        "slug": "gogseong-sunceon",
+        "direction": "순천",
+        "bestFood": "입맛없을땐 짜글이",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "순천",
+        "slug": "sunceon-sunceon",
+        "direction": "순천",
+        "bestFood": "(탐앤탐스)아메리카노 커피",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "이서",
+        "slug": "iseo-ceonan",
+        "direction": "천안",
+        "bestFood": "명품꼬막비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "이서",
+        "slug": "iseo-sunceon",
+        "direction": "순천",
+        "bestFood": "콩불고기보리비빔밥",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "영동선",
+    "slug": "yeongdong",
+    "restAreas": [
+      {
+        "name": "용인",
+        "slug": "yongin-inceon",
+        "direction": "인천",
+        "bestFood": "콩고기더덕돌솥비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "용인",
+        "slug": "yongin-gangreung",
+        "direction": "강릉",
+        "bestFood": "미나리전복갈비탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "여주",
+        "slug": "yeoju-inceon",
+        "direction": "인천",
+        "bestFood": "한식)매운돼지갈비찜",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "여주",
+        "slug": "yeoju-gangreung",
+        "direction": "강릉",
+        "bestFood": "용대리황태해장국",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "문막",
+        "slug": "munmag-inceon",
+        "direction": "인천",
+        "bestFood": "갈비탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "횡성",
+        "slug": "hoengseong-inceon",
+        "direction": "인천",
+        "bestFood": "한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "횡성",
+        "slug": "hoengseong-gangreung",
+        "direction": "강릉",
+        "bestFood": "횡성한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "문막",
+        "slug": "munmag-gangreung",
+        "direction": "강릉",
+        "bestFood": "문막장터국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "평창",
+        "slug": "pyeongcang-inceon",
+        "direction": "인천",
+        "bestFood": "한우우거지국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "평창",
+        "slug": "pyeongcang-gangreung",
+        "direction": "강릉",
+        "bestFood": "아바이순대국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "강릉",
+        "slug": "gangreung-inceon",
+        "direction": "인천",
+        "bestFood": "오뎅꼬치우동",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "강릉",
+        "slug": "gangreung-gangreung",
+        "direction": "강릉",
+        "bestFood": "뚝배기불고기",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "덕평",
+        "slug": "deogpyeong",
+        "direction": "",
+        "bestFood": "특)덕평소고기국밥",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "남해선(순천-부산)",
+    "slug": "namhaeseon-sunceon-busan",
+    "restAreas": [
+      {
+        "name": "섬진강",
+        "slug": "seomjingang-sunceon",
+        "direction": "순천",
+        "bestFood": "웰빙청매실재첩비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "섬진강",
+        "slug": "seomjingang-busan",
+        "direction": "부산",
+        "bestFood": "웰빙청매실재첩비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "진영",
+        "slug": "jinyeong-sunceon",
+        "direction": "순천",
+        "bestFood": "흑돼지 김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "진영",
+        "slug": "jinyeong-busan",
+        "direction": "부산",
+        "bestFood": "진영소국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "문산",
+        "slug": "munsan-sunceon",
+        "direction": "순천",
+        "bestFood": "논개애호박짜글이",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "사천",
+        "slug": "saceon-sunceon",
+        "direction": "순천",
+        "bestFood": "실속건강버섯두부덮밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "사천",
+        "slug": "saceon-busan",
+        "direction": "부산",
+        "bestFood": "돌솥비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "진주",
+        "slug": "jinju-busan",
+        "direction": "부산",
+        "bestFood": "해운대할매국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "함안",
+        "slug": "haman-busan",
+        "direction": "부산",
+        "bestFood": "소고기장터국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "함안",
+        "slug": "haman-sunceon",
+        "direction": "순천",
+        "bestFood": "순두부찌개 돼지불고기백반",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "통영대전선",
+    "slug": "tongyeongdaejeon",
+    "restAreas": [
+      {
+        "name": "산청",
+        "slug": "sanceong-daejeon",
+        "direction": "대전",
+        "bestFood": "흑돼지소라찜",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "산청",
+        "slug": "sanceong-tongyeong",
+        "direction": "통영",
+        "bestFood": "한방우불고기",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "금산인삼랜드",
+        "slug": "geumsaninsamraendeu-daejeon",
+        "direction": "대전",
+        "bestFood": "(실속상품)ex-라면",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "금산인삼랜드",
+        "slug": "geumsaninsamraendeu-tongyeong",
+        "direction": "통영",
+        "bestFood": "능이버섯라면",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "덕유산",
+        "slug": "deogyusan-daejeon",
+        "direction": "대전",
+        "bestFood": "김치제육불범벅",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "덕유산",
+        "slug": "deogyusan-tongyeong",
+        "direction": "통영",
+        "bestFood": "사과돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "고성공룡나라",
+        "slug": "goseonggongryongnara-daejeon",
+        "direction": "대전",
+        "bestFood": "흑돼지김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "고성공룡나라",
+        "slug": "goseonggongryongnara-tongyeong",
+        "direction": "통영",
+        "bestFood": "흑돼지김치찌개",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "중부선",
+    "slug": "jungbu",
+    "restAreas": [
+      {
+        "name": "하남드림",
+        "slug": "hanamdeurim",
+        "direction": "",
+        "bestFood": "마방장터국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "이천쌀",
+        "slug": "iceonssal-hanam",
+        "direction": "하남",
+        "bestFood": "한상돌솥비빔밥(이천한상)",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "이천",
+        "slug": "iceon-nami",
+        "direction": "남이",
+        "bestFood": "오모리 흑돼지김치찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "오창",
+        "slug": "ocang-hanam",
+        "direction": "하남",
+        "bestFood": "설렁탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "오창",
+        "slug": "ocang-nami",
+        "direction": "남이",
+        "bestFood": "(실속상품)고추장찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "음성",
+        "slug": "eumseong-hanam",
+        "direction": "하남",
+        "bestFood": "음성인삼 한우설렁탕",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "음성",
+        "slug": "eumseong-nami",
+        "direction": "남이",
+        "bestFood": "우거지한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "마장",
+        "slug": "majang",
+        "direction": "",
+        "bestFood": "소고기국밥",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "순천완주선",
+    "slug": "sunceonwanju",
+    "restAreas": [
+      {
+        "name": "오수",
+        "slug": "osu-sunceon",
+        "direction": "순천",
+        "bestFood": "소고기장터국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "오수",
+        "slug": "osu-wanju",
+        "direction": "완주",
+        "bestFood": "임실치즈매콤돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "황전",
+        "slug": "hwangjeon-sunceon",
+        "direction": "순천",
+        "bestFood": "(실속상품)버섯된장찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "황전",
+        "slug": "hwangjeon-wanju",
+        "direction": "완주",
+        "bestFood": "유부우동",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "관촌",
+        "slug": "gwancon-gwangyang",
+        "direction": "광양",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "관촌",
+        "slug": "gwancon-jeonju",
+        "direction": "전주",
+        "bestFood": "",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "평택제천선",
+    "slug": "pyeongtaegjeceon",
+    "restAreas": [
+      {
+        "name": "안성맞춤",
+        "slug": "anseongmajcum-pyeongtaeg",
+        "direction": "평택",
+        "bestFood": "안성맞춤국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "안성맞춤",
+        "slug": "anseongmajcum-jeceon",
+        "direction": "제천",
+        "bestFood": "안성맞춤한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "금왕",
+        "slug": "geumwang-pyeongtaeg",
+        "direction": "평택",
+        "bestFood": "인삼고추돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "금왕",
+        "slug": "geumwang-jeceon",
+        "direction": "제천",
+        "bestFood": "해물순두부찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "천등산",
+        "slug": "ceondeungsan-pyeongtaeg",
+        "direction": "평택",
+        "bestFood": "솥밥)고추장짜글이",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "천등산",
+        "slug": "ceondeungsan-jeceon",
+        "direction": "제천",
+        "bestFood": "솥밥-고추장짜글이",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "동해선(삼척-속초)",
+    "slug": "donghaeseon-samceog-sogco",
+    "restAreas": [
+      {
+        "name": "동해",
+        "slug": "donghae-samceog",
+        "direction": "삼척",
+        "bestFood": "오늘은제육볶음",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "옥계",
+        "slug": "oggye-sogco",
+        "direction": "속초",
+        "bestFood": "묵은지돼지김치찜정식",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "구정",
+        "slug": "gujeong-sogco",
+        "direction": "속초",
+        "bestFood": "황태해장국",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "구정",
+        "slug": "gujeong-samceog",
+        "direction": "삼척",
+        "bestFood": "육개장",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "양양",
+        "slug": "yangyang-donghae",
+        "direction": "동해",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "양양",
+        "slug": "yangyang-sogco",
+        "direction": "속초",
+        "bestFood": "",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "동해선(부산-포항)",
+    "slug": "donghaeseon-busan-pohang",
+    "restAreas": [
+      {
+        "name": "외동",
+        "slug": "oedong-pohang",
+        "direction": "포항",
+        "bestFood": "천년한우국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "외동",
+        "slug": "oedong-busan",
+        "direction": "부산",
+        "bestFood": "[명품]해양산 우동돼지국밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "양북임시",
+        "slug": "yangbugimsi-sang",
+        "direction": "상",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "양북임시",
+        "slug": "yangbugimsi-ha",
+        "direction": "하",
+        "bestFood": "",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "서천공주선",
+    "slug": "seoceongongju",
+    "restAreas": [
+      {
+        "name": "부여백제",
+        "slug": "buyeobaegje-gongju",
+        "direction": "공주",
+        "bestFood": "표고버섯된장찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "부여백제",
+        "slug": "buyeobaegje-seoceon",
+        "direction": "서천",
+        "bestFood": "표고버섯된장찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "청양",
+        "slug": "ceongyang-seoceon",
+        "direction": "서천",
+        "bestFood": "",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "청양",
+        "slug": "ceongyang-gongju",
+        "direction": "공주",
+        "bestFood": "",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "수도권제1순환선",
+    "slug": "sudogweonje1sunhwan",
+    "restAreas": [
+      {
+        "name": "의왕",
+        "slug": "yiwang-ilsan",
+        "direction": "일산",
+        "bestFood": "생면식감 라면",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "서하남행복드림쉼터",
+        "slug": "seohanamhaengbogdeurimswimteo",
+        "direction": "",
+        "bestFood": "꼬치어묵우동",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "구리",
+        "slug": "guri-ilsan",
+        "direction": "일산",
+        "bestFood": "흑돼지버섯제육볶음",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "남해선(영암-순천)",
+    "slug": "namhaeseon-yeongam-sunceon",
+    "restAreas": [
+      {
+        "name": "보성녹차",
+        "slug": "boseongnogca-yeongam",
+        "direction": "영암",
+        "bestFood": "보성꼬막비빔밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "보성녹차",
+        "slug": "boseongnogca-sunceon",
+        "direction": "순천",
+        "bestFood": "보성꼬막비빔밥",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "무안광주선",
+    "slug": "muangwangju",
+    "restAreas": [
+      {
+        "name": "함평나비",
+        "slug": "hampyeongnabi-gwangju",
+        "direction": "광주",
+        "bestFood": "양짜덮밥",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "함평나비",
+        "slug": "hampyeongnabi-muan",
+        "direction": "무안",
+        "bestFood": "낙돼불패",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "서울양양선",
+    "slug": "seoulyangyang",
+    "restAreas": [
+      {
+        "name": "홍천",
+        "slug": "hongceon-seoul",
+        "direction": "서울",
+        "bestFood": "사과왕돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "홍천",
+        "slug": "hongceon-yangyang",
+        "direction": "양양",
+        "bestFood": "닭갈비화로구이",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "호남지선",
+    "slug": "honamji",
+    "restAreas": [
+      {
+        "name": "벌곡",
+        "slug": "beolgog-daejeon",
+        "direction": "대전",
+        "bestFood": "왕돈가스",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "벌곡",
+        "slug": "beolgog-nonsan",
+        "direction": "논산",
+        "bestFood": "벌곡닭갈비",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "중부내륙지선",
+    "slug": "jungbunaeryugji",
+    "restAreas": [
+      {
+        "name": "현풍",
+        "slug": "hyeonpung-daegu",
+        "direction": "대구",
+        "bestFood": "창녕양파제육&된장찌개",
+        "type": "일반휴게소"
+      },
+      {
+        "name": "현풍",
+        "slug": "hyeonpung-cangweon",
+        "direction": "창원",
+        "bestFood": "더덕비빔밥＆된장찌개",
+        "type": "일반휴게소"
+      }
+    ]
+  },
+  {
+    "name": "남해2지선",
+    "slug": "namhae2ji",
+    "restAreas": [
+      {
+        "name": "장유",
+        "slug": "jangyu-seobusan",
+        "direction": "서부산",
+        "bestFood": "통영해물순두부찌개",
+        "type": "일반휴게소"
+      }
+    ]
+  }
+]
