@@ -5,7 +5,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 const BASE_URL = 'https://rest.mustarddata.com';
-const GA_ID = 'G-PLACEHOLDER';
+const GA_ID = 'G-7R8ZKQ3R8Y';
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -42,6 +42,9 @@ export const metadata: Metadata = {
   ],
   alternates: {
     canonical: BASE_URL,
+    types: {
+      'application/rss+xml': `${BASE_URL}/feed.xml`,
+    },
   },
   openGraph: {
     title: '전국 고속도로 휴게소 맛집·편의시설 정보',
@@ -71,7 +74,8 @@ export const metadata: Metadata = {
   creator: 'MustardData',
   publisher: 'MustardData',
   other: {
-    'naver-site-verification': 'ba1ae0526ca8b81db47476c81df03aff8de31f39',
+    'naver-site-verification': '805cfcd0accc8de10f49d9d0043398ee4df0230f',
+    // Google Search Console 소유권은 루트 도메인(mustarddata.com)에서 인증 완료
   },
 };
 
@@ -83,10 +87,8 @@ export default function RootLayout({
   return (
     <html lang="ko">
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="apple-touch-icon" href="/apple-icon.png" />
         <link rel="manifest" href="/manifest.json" />
-        <meta name="google-adsense-account" content="ca-pub-9325661912203986" />
+        <meta name="google-adsense-account" content="ca-pub-3224638013189545" />
         <meta name="NaverBot" content="All" />
         <meta name="NaverBot" content="index,follow" />
         <meta name="Yeti" content="All" />
@@ -112,6 +114,11 @@ export default function RootLayout({
             gtag('config', '${GA_ID}');
           `}
         </Script>
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3224638013189545"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
