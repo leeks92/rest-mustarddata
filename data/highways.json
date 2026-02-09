@@ -2,6 +2,7 @@
   {
     "name": "경부선",
     "slug": "gyeongbu",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "서울만남",
@@ -267,6 +268,7 @@
   {
     "name": "서해안선",
     "slug": "seohaean",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "화성",
@@ -427,6 +429,7 @@
   {
     "name": "청주영덕선",
     "slug": "ceongjuyeongdeog",
+    "highwayType": "기타고속도로",
     "restAreas": [
       {
         "name": "속리산",
@@ -559,6 +562,7 @@
   {
     "name": "중앙선",
     "slug": "jungang",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "홍천강",
@@ -691,6 +695,7 @@
   {
     "name": "중부내륙선",
     "slug": "jungbunaeryug",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "영산",
@@ -809,6 +814,7 @@
   {
     "name": "호남선",
     "slug": "honam",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "익산미륵사지",
@@ -906,6 +912,7 @@
   {
     "name": "영동선",
     "slug": "yeongdong",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "용인",
@@ -1003,6 +1010,7 @@
   {
     "name": "남해선(순천-부산)",
     "slug": "namhaeseon-sunceon-busan",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "섬진강",
@@ -1079,6 +1087,7 @@
   {
     "name": "통영대전선",
     "slug": "tongyeongdaejeon",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "산청",
@@ -1141,6 +1150,7 @@
   {
     "name": "중부선",
     "slug": "jungbu",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "하남드림",
@@ -1203,6 +1213,7 @@
   {
     "name": "순천완주선",
     "slug": "sunceonwanju",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "오수",
@@ -1251,6 +1262,7 @@
   {
     "name": "평택제천선",
     "slug": "pyeongtaegjeceon",
+    "highwayType": "지선고속도로",
     "restAreas": [
       {
         "name": "안성맞춤",
@@ -1299,6 +1311,7 @@
   {
     "name": "동해선(삼척-속초)",
     "slug": "donghaeseon-samceog-sogco",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "동해",
@@ -1347,6 +1360,7 @@
   {
     "name": "동해선(부산-포항)",
     "slug": "donghaeseon-busan-pohang",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "외동",
@@ -1381,6 +1395,7 @@
   {
     "name": "서천공주선",
     "slug": "seoceongongju",
+    "highwayType": "지선고속도로",
     "restAreas": [
       {
         "name": "부여백제",
@@ -1415,6 +1430,7 @@
   {
     "name": "수도권제1순환선",
     "slug": "sudogweonje1sunhwan",
+    "highwayType": "순환고속도로",
     "restAreas": [
       {
         "name": "의왕",
@@ -1442,6 +1458,7 @@
   {
     "name": "남해선(영암-순천)",
     "slug": "namhaeseon-yeongam-sunceon",
+    "highwayType": "간선고속도로",
     "restAreas": [
       {
         "name": "보성녹차",
@@ -1462,6 +1479,7 @@
   {
     "name": "무안광주선",
     "slug": "muangwangju",
+    "highwayType": "기타고속도로",
     "restAreas": [
       {
         "name": "함평나비",
@@ -1482,6 +1500,7 @@
   {
     "name": "서울양양선",
     "slug": "seoulyangyang",
+    "highwayType": "기타고속도로",
     "restAreas": [
       {
         "name": "홍천",
@@ -1502,6 +1521,7 @@
   {
     "name": "호남지선",
     "slug": "honamji",
+    "highwayType": "지선고속도로",
     "restAreas": [
       {
         "name": "벌곡",
@@ -1522,6 +1542,7 @@
   {
     "name": "중부내륙지선",
     "slug": "jungbunaeryugji",
+    "highwayType": "지선고속도로",
     "restAreas": [
       {
         "name": "현풍",
@@ -1542,6 +1563,7 @@
   {
     "name": "남해2지선",
     "slug": "namhae2ji",
+    "highwayType": "지선고속도로",
     "restAreas": [
       {
         "name": "장유",

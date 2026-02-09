@@ -88,10 +88,22 @@ export interface RestArea {
   facilities: Facility[];
 }
 
+/** 고속도로 노선 유형 */
+export type HighwayType = '간선고속도로' | '순환고속도로' | '지선고속도로' | '기타고속도로';
+
+/** 고속도로 유형별 라벨 및 설명 */
+export const HIGHWAY_TYPE_META: Record<HighwayType, { label: string; desc: string }> = {
+  '간선고속도로': { label: '간선고속도로', desc: '주요 도시를 연결하는 기간 노선' },
+  '순환고속도로': { label: '순환고속도로', desc: '수도권 및 도시 외곽을 순환하는 노선' },
+  '지선고속도로': { label: '지선고속도로', desc: '간선에서 분기하여 연결하는 노선' },
+  '기타고속도로': { label: '기타고속도로', desc: '기타 고속도로 노선' },
+};
+
 /** 고속도로 정보 */
 export interface Highway {
   name: string;
   slug: string;
+  highwayType: HighwayType;
   restAreas: {
     name: string;
     slug: string;

@@ -206,9 +206,33 @@ interface RestAreaData {
   facilities: { name: string; desc: string; openTime: string; closeTime: string }[];
 }
 
+type HighwayType = '간선고속도로' | '순환고속도로' | '지선고속도로' | '기타고속도로';
+
+/** 고속도로 이름으로 노선 유형 자동 분류 */
+function classifyHighwayType(name: string): HighwayType {
+  // 순환 노선
+  if (name.includes('순환')) return '순환고속도로';
+
+  // 지선 노선
+  if (name.includes('지선')) return '지선고속도로';
+
+  // 간선 노선 (주요 노선 명시)
+  const mainHighways = [
+    '경부선', '서해안선', '영동선', '호남선', '중앙선', '중부선',
+    '중부내륙선', '남해선', '통영대전선', '동해선', '순천완주선',
+  ];
+  for (const main of mainHighways) {
+    if (name.includes(main.replace('선', ''))) return '간선고속도로';
+  }
+
+  // 이름에 '선'으로 끝나면서 위 목록에 없으면 기타
+  return '기타고속도로';
+}
+
 interface HighwayData {
   name: string;
   slug: string;
+  highwayType: HighwayType;
   restAreas: {
     name: string;
     slug: string;
@@ -388,6 +412,7 @@ async function main() {
       highwayMap.set(hwSlug, {
         name: hwName,
         slug: hwSlug,
+        highwayType: classifyHighwayType(hwName),
         restAreas: [],
       });
     }
