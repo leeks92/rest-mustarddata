@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background: Emerald/Green -->
+  <rect width="512" height="512" rx="115" fill="#059669"/>
+  
+  <!-- Coffee Cup -->
+  <path d="M155 190 L175 380 C177 395 190 405 205 405 L307 405 C322 405 335 395 337 380 L357 190 Z" fill="white"/>
+  
+  <!-- Cup Handle -->
+  <path d="M357 220 C395 220 415 245 415 275 C415 305 395 330 357 330" fill="none" stroke="white" stroke-width="22" stroke-linecap="round"/>
+  
+  <!-- Steam Lines -->
+  <path d="M220 165 C220 145 240 140 240 120" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+  <path d="M256 155 C256 135 276 130 276 110" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+  <path d="M292 165 C292 145 312 140 312 120" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+  
+  <!-- Road marks (highway feel) -->
+  <rect x="100" y="440" width="312" height="6" rx="3" fill="white" opacity="0.3"/>
+  <rect x="160" y="455" width="50" height="4" rx="2" fill="white" opacity="0.25"/>
+  <rect x="230" y="455" width="50" height="4" rx="2" fill="white" opacity="0.25"/>
+  <rect x="300" y="455" width="50" height="4" rx="2" fill="white" opacity="0.25"/>
+</svg>
