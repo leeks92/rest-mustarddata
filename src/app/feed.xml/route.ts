@@ -1,6 +1,7 @@
 import { getAllHighways } from '@/lib/data/highways';
 import { getMetadata } from '@/lib/data/metadata';
 import { getPopularRestAreas } from '@/lib/data/popular';
+import { getAllRegions } from '@/lib/data/regions';
 
 // output: 'export' 호환을 위한 설정
 export const dynamic = 'force-static';
@@ -65,6 +66,29 @@ export async function GET() {
       <description><![CDATA[설날·추석 명절 연휴 고속도로 여행 가이드. 노선별 추천 휴게소, 명절 인기 맛집(호두과자·돈가스·국밥), 가족 편의시설(수유실·샤워실·전기차충전) 정보.]]></description>
       <pubDate>${lastUpdated}</pubDate>
     </item>`);
+
+  // 지역별 페이지
+  const regions = getAllRegions();
+  items.push(`
+    <item>
+      <title><![CDATA[지역별 고속도로 휴게소 - 시·도별 휴게소 맛집·편의시설]]></title>
+      <link>${BASE_URL}/region</link>
+      <guid>${BASE_URL}/region</guid>
+      <description><![CDATA[경기도, 충청도, 경상도, 전라도, 강원도 등 시·도별 고속도로 휴게소 정보. 지역별 추천 맛집과 편의시설을 확인하세요.]]></description>
+      <pubDate>${lastUpdated}</pubDate>
+    </item>`);
+
+  regions.forEach(region => {
+    const url = `${BASE_URL}/region/${region.slug}`;
+    items.push(`
+    <item>
+      <title><![CDATA[${region.name} 고속도로 휴게소 목록 - 맛집, 편의시설 정보]]></title>
+      <link>${url}</link>
+      <guid>${url}</guid>
+      <description><![CDATA[${region.name}의 고속도로 휴게소 ${region.count}개를 확인하세요. ${region.shortName} 지역 휴게소 대표 음식, 편의시설 정보를 제공합니다.]]></description>
+      <pubDate>${lastUpdated}</pubDate>
+    </item>`);
+  });
 
   // 고속도로별 페이지
   highways.forEach(hw => {

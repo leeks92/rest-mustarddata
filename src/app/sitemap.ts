@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllRestAreas } from '@/lib/data/rest-areas';
 import { getAllHighways } from '@/lib/data/highways';
+import { getAllRegions } from '@/lib/data/regions';
 
 export const dynamic = 'force-static';
 
@@ -9,6 +10,7 @@ const BASE_URL = 'https://rest.mustarddata.com';
 export default function sitemap(): MetadataRoute.Sitemap {
   const restAreas = getAllRestAreas();
   const highways = getAllHighways();
+  const regions = getAllRegions();
 
   const staticPages: MetadataRoute.Sitemap = [
     {
@@ -41,6 +43,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
+    {
+      url: `${BASE_URL}/region`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
   ];
 
   const highwayPages: MetadataRoute.Sitemap = highways.map(hw => ({
@@ -57,5 +65,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...highwayPages, ...restAreaPages];
+  const regionPages: MetadataRoute.Sitemap = regions.map(r => ({
+    url: `${BASE_URL}/region/${r.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  return [...staticPages, ...highwayPages, ...regionPages, ...restAreaPages];
 }

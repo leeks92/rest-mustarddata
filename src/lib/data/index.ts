@@ -4,3 +4,4 @@ export { getPopularRestAreas } from './popular';
 export { getAllHighways, getHighwayBySlug, getHighwaysByType, getHighwaysGroupedByType } from './highways';
 export { getMetadata } from './metadata';
 export { getRestAreasGroupedByHighwayType } from './grouped';
+export { getAllRegions, getRegionBySlug, getRestAreasByRegion } from './regions';
