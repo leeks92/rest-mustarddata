@@ -1,10 +1,12 @@
 import Link from 'next/link';
-import { getAllRestAreas, getAllHighways, getMetadata, getPopularRestAreas } from '@/lib/data';
+import { getAllHighways } from '@/lib/data/highways';
+import { getMetadata } from '@/lib/data/metadata';
+import { getPopularRestAreas } from '@/lib/data/popular';
+import { getSearchableRestAreas } from '@/lib/data/search';
 import SearchForm from '@/components/SearchForm';
 import JsonLd from '@/components/JsonLd';
 
 export default function HomePage() {
-  const restAreas = getAllRestAreas();
   const highways = getAllHighways();
   const metadata = getMetadata();
   const popularAreas = getPopularRestAreas(12);
@@ -66,7 +68,7 @@ export default function HomePage() {
           <p className="text-lg md:text-xl text-emerald-100 mb-8">
             {metadata.highwayCount}개 고속도로, {metadata.restAreaCount}개 휴게소의 맛집·편의시설 정보를 한눈에
           </p>
-          <SearchForm restAreas={restAreas} />
+          <SearchForm restAreas={getSearchableRestAreas()} />
         </div>
       </section>
 

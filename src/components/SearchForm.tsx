@@ -2,15 +2,15 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import type { RestArea } from '@/lib/types';
+import type { SearchRestArea } from '@/lib/types';
 
 interface SearchFormProps {
-  restAreas: RestArea[];
+  restAreas: SearchRestArea[];
 }
 
 export default function SearchForm({ restAreas }: SearchFormProps) {
   const [query, setQuery] = useState('');
-  const [results, setResults] = useState<RestArea[]>([]);
+  const [results, setResults] = useState<SearchRestArea[]>([]);
   const [isOpen, setIsOpen] = useState(false);
 
   const handleSearch = (value: string) => {

@@ -432,6 +432,36 @@ async function main() {
   // ===== 저장 =====
   saveJson('rest-areas.json', restAreas);
   saveJson('highways.json', highways);
+
+  // 검색용 경량 데이터
+  const searchRestAreas = restAreas.map(r => ({
+    name: r.name,
+    slug: r.slug,
+    highway: r.highway,
+    direction: r.direction,
+    bestFood: r.bestFood,
+    address: r.address,
+  }));
+  saveJson('search-rest-areas.json', searchRestAreas);
+
+  // 인기 휴게소 (대표음식 있는 상위 20개, 카드용 경량 데이터)
+  const popularRestAreas = restAreas
+    .filter(r => r.bestFood && r.bestFood.trim() !== '')
+    .slice(0, 20)
+    .map(r => ({
+      name: r.name,
+      slug: r.slug,
+      highway: r.highway,
+      direction: r.direction,
+      address: r.address,
+      bestFood: r.bestFood,
+      hasEvCharger: r.hasEvCharger,
+      hasGasStation: r.hasGasStation,
+      hasShower: r.hasShower,
+      hasNursingRoom: r.hasNursingRoom,
+    }));
+  saveJson('popular-rest-areas.json', popularRestAreas);
+
   saveJson('metadata.json', {
     lastUpdated: new Date().toISOString(),
     restAreaCount: restAreas.length,

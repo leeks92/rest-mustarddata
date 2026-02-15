@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getAllRestAreas } from '@/lib/data';
+import { getAllRestAreas } from '@/lib/data/rest-areas';
 
 export const metadata: Metadata = {
   title: '고속도로 휴게소 맛집 추천 - 전국 대표 음식 총정리',

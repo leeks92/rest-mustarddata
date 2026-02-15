@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import SisterSites from './SisterSites';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -78,29 +79,7 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="font-bold mb-3 text-gray-900">관련 서비스</h3>
-            <ul className="space-y-2 text-sm text-gray-700">
-              <li>
-                <a href="https://bus.mustarddata.com" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-600">
-                  버스 시간표
-                </a>
-              </li>
-              <li>
-                <a href="https://train.mustarddata.com" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-600">
-                  기차 시간표
-                </a>
-              </li>
-              <li>
-                <a href="https://calc.mustarddata.com" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-600">
-                  금융 계산기
-                </a>
-              </li>
-              <li>
-                <a href="https://apt.mustarddata.com" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-600">
-                  부동산 실거래가
-                </a>
-              </li>
-            </ul>
+            <SisterSites currentSite="rest" />
           </div>
         </div>
         <div className="mt-8 pt-6 border-t text-center text-sm text-gray-600">

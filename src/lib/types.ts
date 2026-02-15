@@ -88,6 +88,30 @@ export interface RestArea {
   facilities: Facility[];
 }
 
+/** 검색용 휴게소 경량 데이터 */
+export interface SearchRestArea {
+  name: string;
+  slug: string;
+  highway: string;
+  direction: string;
+  bestFood: string;
+  address: string;
+}
+
+/** 인기 휴게소 카드용 경량 데이터 */
+export interface PopularRestArea {
+  name: string;
+  slug: string;
+  highway: string;
+  direction: string;
+  address: string;
+  bestFood: string;
+  hasEvCharger: boolean;
+  hasGasStation: boolean;
+  hasShower: boolean;
+  hasNursingRoom: boolean;
+}
+
 /** 고속도로 노선 유형 */
 export type HighwayType = '간선고속도로' | '순환고속도로' | '지선고속도로' | '기타고속도로';
 

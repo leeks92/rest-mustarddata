@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getAllHighways } from '@/lib/data';
+import { getAllHighways } from '@/lib/data/highways';
 
 export const metadata: Metadata = {
   title: '고속도로 노선별 휴게소 목록',

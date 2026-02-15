@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getRestAreaBySlug, getAllRestAreas, getRestAreasByHighway } from '@/lib/data';
+import { getRestAreaBySlug, getAllRestAreas, getRestAreasByHighway } from '@/lib/data/rest-areas';
 import JsonLd from '@/components/JsonLd';
 
 interface Props {

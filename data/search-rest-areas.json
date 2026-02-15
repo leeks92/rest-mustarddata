@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "서울만남",
+    "slug": "seoulmannam-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "말죽거리소고기국밥",
+    "address": "서울 서초구 원지동10-16"
+  },
+  {
+    "name": "죽전",
+    "slug": "jugjeon-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "용인특산품영양밥정식",
+    "address": "경기 용인시 죽전2동866-2 "
+  },
+  {
+    "name": "기흥",
+    "slug": "giheung-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "수제등심돈가스",
+    "address": "경기 용인시 기흥구공세로 173 기흥휴게소"
+  },
+  {
+    "name": "안성",
+    "slug": "anseong-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "한우국밥",
+    "address": "경기 안성시 원곡면산하리(경부고속도로 372)"
+  },
+  {
+    "name": "안성",
+    "slug": "anseong-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "안성국밥",
+    "address": "경기 안성시 원곡면경부고속도로 365"
+  },
+  {
+    "name": "망향",
+    "slug": "manghyang-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "명품한우국밥",
+    "address": "충남 천안시 성거읍요방리 121"
+  },
+  {
+    "name": "옥산",
+    "slug": "ogsan-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "표고소고기국밥",
+    "address": "충북 청원군 옥산면오산리 589-15"
+  },
+  {
+    "name": "천안삼거리",
+    "slug": "ceonansamgeori-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "해주비빔밥",
+    "address": "충남 천안시 구성동171"
+  },
+  {
+    "name": "천안호두",
+    "slug": "ceonanhodu-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "호두과자(3,000 ~ 24,000원)",
+    "address": "충남 천안시 수신면신풍리 447-3"
+  },
+  {
+    "name": "죽암",
+    "slug": "jugam-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "수제돈가스",
+    "address": "충북 청원군 현도면죽전리 314"
+  },
+  {
+    "name": "죽암",
+    "slug": "jugam-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "보은대추왕갈비탕",
+    "address": "충북 청주시 서원구 현도면 경부고속도로 289"
+  },
+  {
+    "name": "금강",
+    "slug": "geumgang-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "금강도리뱅뱅정식",
+    "address": "충북 옥천군 동이면조령리 568"
+  },
+  {
+    "name": "옥천",
+    "slug": "ogceon-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "한방닭곰탕",
+    "address": "충북 옥천군 옥천읍매화리(옥천동이로) 옥천동이로 242-34"
+  },
+  {
+    "name": "황간",
+    "slug": "hwanggan-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "영표국밥",
+    "address": "충북 영동군 황간면회포리 114"
+  },
+  {
+    "name": "황간",
+    "slug": "hwanggan-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "영표국밥",
+    "address": "충북 영동군 황간면회포리 103-2"
+  },
+  {
+    "name": "입장거봉포도",
+    "slug": "ibjanggeobongpodo-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "흑돼지김치찌개",
+    "address": "충청남도 천안시 서북구 입장면연곡길 407"
+  },
+  {
+    "name": "추풍령",
+    "slug": "cupungryeong-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "(실속)통등심돈가스",
+    "address": "경북 김천시 봉산면광천리 737-1"
+  },
+  {
+    "name": "추풍령",
+    "slug": "cupungryeong-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "(실속)통등심돈가스",
+    "address": "경북 김천시 봉산면광천리 691"
+  },
+  {
+    "name": "칠곡",
+    "slug": "cilgog-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "따로국밥정식",
+    "address": "경북 칠곡군 왜관읍아곡리 138"
+  },
+  {
+    "name": "경산",
+    "slug": "gyeongsan-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "돼지김치찌게",
+    "address": "경북 경산시 진량면신상리 995-3"
+  },
+  {
+    "name": "평사",
+    "slug": "pyeongsa-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "대구따로국밥정식",
+    "address": "경북 경산시 진량읍경부고속도로105"
+  },
+  {
+    "name": "칠곡",
+    "slug": "cilgog-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "자율식당",
+    "address": "경북 칠곡군 왜관읍아곡리(경부고속도로) 159"
+  },
+  {
+    "name": "건천",
+    "slug": "geonceon-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "돼지고기김치찌개",
+    "address": "경북 경주시 건천읍금척리 683-2"
+  },
+  {
+    "name": "건천",
+    "slug": "geonceon-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "누구나돌솥비빔밥",
+    "address": "경북 경주시 건천읍방내리 14"
+  },
+  {
+    "name": "언양",
+    "slug": "eonyang-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "묵은지김치찌개",
+    "address": "울산광역시 울주군 언양읍반곡리 966-14"
+  },
+  {
+    "name": "언양",
+    "slug": "eonyang-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "신탄진",
+    "slug": "sintanjin-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "도가니 설렁탕",
+    "address": "대전시 대덕구 상서동236-1"
+  },
+  {
+    "name": "옥천",
+    "slug": "ogceon-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "표고강된장열무보리비빔밥",
+    "address": "충북 옥천군 옥천읍매화리 236-16"
+  },
+  {
+    "name": "경주",
+    "slug": "gyeongju-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "경주천년한우국밥",
+    "address": "경북 경주시 내남면 경부고속도로 59(월산리) 경주(부산)휴게소"
+  },
+  {
+    "name": "청주",
+    "slug": "ceongju-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "청주소고기국밥",
+    "address": "충북 청원군 옥산면 장남리284-16"
+  },
+  {
+    "name": "양산",
+    "slug": "yangsan-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "해양산 얼큰우동돼지국밥",
+    "address": "경남 양산시 동면 내송리788번지"
+  },
+  {
+    "name": "김천",
+    "slug": "gimceon-seoul",
+    "highway": "경부선",
+    "direction": "서울",
+    "bestFood": "영양제육볶음(공기밥)",
+    "address": "경북 김천시 농소면신촌리 728-1"
+  },
+  {
+    "name": "김천",
+    "slug": "gimceon-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "촌돼지찌개",
+    "address": "경북 김천시 농소면신촌리 730-2"
+  },
+  {
+    "name": "서울하이패스센터쉼터",
+    "slug": "seoulhaipaeseusenteoswimteo",
+    "highway": "경부선",
+    "direction": "",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "통도사",
+    "slug": "tongdosa-busan",
+    "highway": "경부선",
+    "direction": "부산",
+    "bestFood": "1등급 한우국밥",
+    "address": "경남 양산시 하북면순지리(경부고속도로) 31-1"
+  },
+  {
+    "name": "옥천만남",
+    "slug": "ogceonmannam",
+    "highway": "경부선",
+    "direction": "",
+    "bestFood": "",
+    "address": "충북 옥천군 옥천읍중앙로 135"
+  },
+  {
+    "name": "기흥복합",
+    "slug": "giheungboghab",
+    "highway": "경부선",
+    "direction": "",
+    "bestFood": "한우국밥",
+    "address": "경기 용인시 기흥읍공세리 290-1"
+  },
+  {
+    "name": "섬진강",
+    "slug": "seomjingang-sunceon",
+    "highway": "남해선(순천-부산)",
+    "direction": "순천",
+    "bestFood": "웰빙청매실재첩비빔밥",
+    "address": "전남 광양시 진월면신아리 1192-1"
+  },
+  {
+    "name": "섬진강",
+    "slug": "seomjingang-busan",
+    "highway": "남해선(순천-부산)",
+    "direction": "부산",
+    "bestFood": "웰빙청매실재첩비빔밥",
+    "address": "전남 광양시 진월면신아리 1192-1"
+  },
+  {
+    "name": "진영",
+    "slug": "jinyeong-sunceon",
+    "highway": "남해선(순천-부산)",
+    "direction": "순천",
+    "bestFood": "흑돼지 김치찌개",
+    "address": "경남 김해시 진영읍우동리(하계로96번길) 68"
+  },
+  {
+    "name": "진영",
+    "slug": "jinyeong-busan",
+    "highway": "남해선(순천-부산)",
+    "direction": "부산",
+    "bestFood": "진영소국밥",
+    "address": "경남 김해시 진영읍우동리(하계로96번길)"
+  },
+  {
+    "name": "문산",
+    "slug": "munsan-sunceon",
+    "highway": "남해선(순천-부산)",
+    "direction": "순천",
+    "bestFood": "논개애호박짜글이",
+    "address": "경남 진주시 문산읍소문리 968-2"
+  },
+  {
+    "name": "사천",
+    "slug": "saceon-sunceon",
+    "highway": "남해선(순천-부산)",
+    "direction": "순천",
+    "bestFood": "실속건강버섯두부덮밥",
+    "address": "경남 사천시 곤양면묵곡리 산171-31"
+  },
+  {
+    "name": "사천",
+    "slug": "saceon-busan",
+    "highway": "남해선(순천-부산)",
+    "direction": "부산",
+    "bestFood": "돌솥비빔밥",
+    "address": "경남 사천시 곤양면묵곡리(서삼로) 619번길"
+  },
+  {
+    "name": "진주",
+    "slug": "jinju-busan",
+    "highway": "남해선(순천-부산)",
+    "direction": "부산",
+    "bestFood": "해운대할매국밥",
+    "address": "경남 진주시 호탄동382 외 62필지"
+  },
+  {
+    "name": "함안",
+    "slug": "haman-busan",
+    "highway": "남해선(순천-부산)",
+    "direction": "부산",
+    "bestFood": "소고기장터국밥",
+    "address": "경남 함안군 군북면유현리 산 993-6"
+  },
+  {
+    "name": "함안",
+    "slug": "haman-sunceon",
+    "highway": "남해선(순천-부산)",
+    "direction": "순천",
+    "bestFood": "순두부찌개 돼지불고기백반",
+    "address": "경남 함안군 군북면유현리 산 993-1"
+  },
+  {
+    "name": "보성녹차",
+    "slug": "boseongnogca-yeongam",
+    "highway": "남해선(영암-순천)",
+    "direction": "영암",
+    "bestFood": "보성꼬막비빔밥",
+    "address": "전남 보성군 미력면화방리 산 196-7"
+  },
+  {
+    "name": "보성녹차",
+    "slug": "boseongnogca-sunceon",
+    "highway": "남해선(영암-순천)",
+    "direction": "순천",
+    "bestFood": "보성꼬막비빔밥",
+    "address": "전남 보성군 겸백면수남리 385-3"
+  },
+  {
+    "name": "함평나비",
+    "slug": "hampyeongnabi-gwangju",
+    "highway": "무안광주선",
+    "direction": "광주",
+    "bestFood": "양짜덮밥",
+    "address": "전남 함평군 엄다면무안광주고속도로 12"
+  },
+  {
+    "name": "함평나비",
+    "slug": "hampyeongnabi-muan",
+    "highway": "무안광주선",
+    "direction": "무안",
+    "bestFood": "낙돼불패",
+    "address": "전남 함평군 엄다면화양리 1025-3번지"
+  },
+  {
+    "name": "화성",
+    "slug": "hwaseong-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "(실속)순두부청국장",
+    "address": "경기도 화성군 팔탄면덕천리 102-3"
+  },
+  {
+    "name": "화성",
+    "slug": "hwaseong-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "(실속상품)수제등심돈가스",
+    "address": "경기도 화성군 팔탄면덕천리 102-1"
+  },
+  {
+    "name": "행담도",
+    "slug": "haengdamdo",
+    "highway": "서해안선",
+    "direction": "",
+    "bestFood": "<푸드오클락> 행담도소고기국밥",
+    "address": "충남 당진군 신평면매산리 513"
+  },
+  {
+    "name": "대천",
+    "slug": "daeceon-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "돌솥비빔밥",
+    "address": "충남 보령시 주교면주교리 904-34"
+  },
+  {
+    "name": "대천",
+    "slug": "daeceon-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "돌솥비빔밥",
+    "address": "충남 보령시 주교면주교리 933-5"
+  },
+  {
+    "name": "서산",
+    "slug": "seosan-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "어리굴젓백반",
+    "address": "충남 서산시 해미면삼송리(서해안고속도로) 242"
+  },
+  {
+    "name": "서산",
+    "slug": "seosan-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "어리굴젓 백반",
+    "address": "충청남도 서산시 해미면삼송리 119"
+  },
+  {
+    "name": "군산",
+    "slug": "gunsan-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "울외불고기비빔밥",
+    "address": "전북 군산시 나포면서해안고속도로 3182"
+  },
+  {
+    "name": "군산",
+    "slug": "gunsan-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "옥구우거지국밥",
+    "address": "전라북도 군산시 성산면산곡리 산1"
+  },
+  {
+    "name": "고창고인돌",
+    "slug": "gocanggoindol-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "옛날돈까스",
+    "address": "전북 고창군 고창읍신월리(서해안고속도로)"
+  },
+  {
+    "name": "고창고인돌",
+    "slug": "gocanggoindol-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "고창장어탕",
+    "address": "전북 고창군 신림면벽송리 557-10"
+  },
+  {
+    "name": "함평천지",
+    "slug": "hampyeongceonji-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "바우네맑은 나주곰탕",
+    "address": "전남 함평군 함평읍 서해안고속도로 31"
+  },
+  {
+    "name": "함평천지",
+    "slug": "hampyeongceonji-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "소고기장터국밥",
+    "address": "전라남도 함평군 손불면죽암리 29-1"
+  },
+  {
+    "name": "홍성",
+    "slug": "hongseong-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "소고기국밥",
+    "address": "경기 이천시 부발읍아미리"
+  },
+  {
+    "name": "홍성",
+    "slug": "hongseong-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "소고기국밥",
+    "address": "충남 홍성군 은하면금국리 292-3"
+  },
+  {
+    "name": "서천",
+    "slug": "seoceon-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "등심돈가스",
+    "address": "충남 서천군 비인면성산리 22-4"
+  },
+  {
+    "name": "서천",
+    "slug": "seoceon-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "된장찌개",
+    "address": "충남 서천군 비인면서해안고속도로169(성산리)"
+  },
+  {
+    "name": "목감",
+    "slug": "moggam-seoul",
+    "highway": "서해안선",
+    "direction": "서울",
+    "bestFood": "매직핫도그",
+    "address": "경기 시흥시 목감동125 외9필지"
+  },
+  {
+    "name": "부안하쉼터",
+    "slug": "buanhaswimteo",
+    "highway": "서해안선",
+    "direction": "",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "부안상쉼터",
+    "slug": "buansangswimteo",
+    "highway": "서해안선",
+    "direction": "",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "대산상쉼터",
+    "slug": "daesansangswimteo",
+    "highway": "서해안선",
+    "direction": "",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "영광",
+    "slug": "yeonggwang-mogpo",
+    "highway": "서해안선",
+    "direction": "목포",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "익산미륵사지",
+    "slug": "igsanmireugsaji-ceonan",
+    "highway": "호남선",
+    "direction": "천안",
+    "bestFood": "양파제육불고기",
+    "address": "전북 익산시 여산면호산리 24-1"
+  },
+  {
+    "name": "익산미륵사지",
+    "slug": "igsanmireugsaji-sunceon",
+    "highway": "호남선",
+    "direction": "순천",
+    "bestFood": "양파제육불고기",
+    "address": "전북 익산시 여산면호남고속도로 191, 192"
+  },
+  {
+    "name": "정읍녹두장군",
+    "slug": "jeongeubnogdujanggun-ceonan",
+    "highway": "호남선",
+    "direction": "천안",
+    "bestFood": "제육덮밥",
+    "address": "전북 정읍시 북면남산리 20-5"
+  },
+  {
+    "name": "정읍녹두장군",
+    "slug": "jeongeubnogdujanggun-sunceon",
+    "highway": "호남선",
+    "direction": "순천",
+    "bestFood": "정읍신가네귀리떡갈비정식",
+    "address": "전북 정읍시 북면남산리 19-1"
+  },
+  {
+    "name": "주암",
+    "slug": "juam-sunceon",
+    "highway": "호남선",
+    "direction": "순천",
+    "bestFood": "건봉국밥",
+    "address": "전남 순천시 주암면고산리 252-2"
+  },
+  {
+    "name": "곡성",
+    "slug": "gogseong-ceonan",
+    "highway": "호남선",
+    "direction": "천안",
+    "bestFood": "깨비정식(1인분)",
+    "address": "전남 곡성군 겸면가정리 347"
+  },
+  {
+    "name": "백양사",
+    "slug": "baegyangsa-ceonan",
+    "highway": "호남선",
+    "direction": "천안",
+    "bestFood": "삼채애호박찌개",
+    "address": "전라남도 장성군 북일면 호남고속도로 108 (백양사휴게소(상행))박산리 158"
+  },
+  {
+    "name": "백양사",
+    "slug": "baegyangsa-sunceon",
+    "highway": "호남선",
+    "direction": "순천",
+    "bestFood": "(실속상품)삼채된장찌개",
+    "address": "전라남도 장성군 북이면 호남고속도로 107 (백양사휴게소(하))"
+  },
+  {
+    "name": "주암",
+    "slug": "juam-ceonan",
+    "highway": "호남선",
+    "direction": "천안",
+    "bestFood": "건봉국밥",
+    "address": "전남 순천시 주암면고산리 57-4"
+  },
+  {
+    "name": "곡성",
+    "slug": "gogseong-sunceon",
+    "highway": "호남선",
+    "direction": "순천",
+    "bestFood": "입맛없을땐 짜글이",
+    "address": "전남 곡성군 겸면가정리 산96-6"
+  },
+  {
+    "name": "순천",
+    "slug": "sunceon-sunceon",
+    "highway": "호남선",
+    "direction": "순천",
+    "bestFood": "(탐앤탐스)아메리카노 커피",
+    "address": "전남 순천시 서면비월리 산169-2"
+  },
+  {
+    "name": "이서",
+    "slug": "iseo-ceonan",
+    "highway": "호남선",
+    "direction": "천안",
+    "bestFood": "명품꼬막비빔밥",
+    "address": "서울 송파구 송파동185-5"
+  },
+  {
+    "name": "이서",
+    "slug": "iseo-sunceon",
+    "highway": "호남선",
+    "direction": "순천",
+    "bestFood": "콩불고기보리비빔밥",
+    "address": "서울 송파구 송파동185-5"
+  },
+  {
+    "name": "오수",
+    "slug": "osu-sunceon",
+    "highway": "순천완주선",
+    "direction": "순천",
+    "bestFood": "소고기장터국밥",
+    "address": "전북 임실군 오수면오산리 675-18"
+  },
+  {
+    "name": "오수",
+    "slug": "osu-wanju",
+    "highway": "순천완주선",
+    "direction": "완주",
+    "bestFood": "임실치즈매콤돈가스",
+    "address": "전북 임실군 순천완주고속도로 74"
+  },
+  {
+    "name": "황전",
+    "slug": "hwangjeon-sunceon",
+    "highway": "순천완주선",
+    "direction": "순천",
+    "bestFood": "(실속상품)버섯된장찌개",
+    "address": "전남 순천시 황전면선변리 560-7"
+  },
+  {
+    "name": "황전",
+    "slug": "hwangjeon-wanju",
+    "highway": "순천완주선",
+    "direction": "완주",
+    "bestFood": "유부우동",
+    "address": "전남 순천시 황전면선변리 595-7"
+  },
+  {
+    "name": "관촌",
+    "slug": "gwancon-gwangyang",
+    "highway": "순천완주선",
+    "direction": "광양",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "관촌",
+    "slug": "gwancon-jeonju",
+    "highway": "순천완주선",
+    "direction": "전주",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "속리산",
+    "slug": "sogrisan-ceongju",
+    "highway": "청주영덕선",
+    "direction": "청주",
+    "bestFood": "보은사과왕돈가스",
+    "address": "충북 보은군 마로면적암리 180외 19필지"
+  },
+  {
+    "name": "화서",
+    "slug": "hwaseo-yeongdeog",
+    "highway": "청주영덕선",
+    "direction": "영덕",
+    "bestFood": "경양식돈가스",
+    "address": "경북 상주시 화서면상용리 408"
+  },
+  {
+    "name": "공주",
+    "slug": "gongju-daejeon",
+    "highway": "청주영덕선",
+    "direction": "대전",
+    "bestFood": "알밤한우국밥",
+    "address": "충남 공주시 장기면송선리 320-3"
+  },
+  {
+    "name": "공주",
+    "slug": "gongju-dangjin",
+    "highway": "청주영덕선",
+    "direction": "당진",
+    "bestFood": "알밤 먹은 한우 국밥",
+    "address": "충남 공주시 의당면청룡리 65-16"
+  },
+  {
+    "name": "예산",
+    "slug": "yesan-daejeon",
+    "highway": "청주영덕선",
+    "direction": "대전",
+    "bestFood": "예산사과버섯비빔밥",
+    "address": "충남 예산군 신양면서계양리 662-28"
+  },
+  {
+    "name": "예산",
+    "slug": "yesan-dangjin",
+    "highway": "청주영덕선",
+    "direction": "당진",
+    "bestFood": "[양식]사과돈가스",
+    "address": "충남 예산군 신양면서계양리 672-3"
+  },
+  {
+    "name": "면천",
+    "slug": "myeonceon-dangjin",
+    "highway": "청주영덕선",
+    "direction": "당진",
+    "bestFood": "",
+    "address": "충남 당진군 면천면자개리 산42-2"
+  },
+  {
+    "name": "면천",
+    "slug": "myeonceon-daejeon",
+    "highway": "청주영덕선",
+    "direction": "대전",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "신풍",
+    "slug": "sinpung-dangjin",
+    "highway": "청주영덕선",
+    "direction": "당진",
+    "bestFood": "",
+    "address": "충남 공주시 신풍면평소리 51"
+  },
+  {
+    "name": "신풍",
+    "slug": "sinpung-daejeon",
+    "highway": "청주영덕선",
+    "direction": "대전",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "상주",
+    "slug": "sangju-ceongweon",
+    "highway": "청주영덕선",
+    "direction": "청원",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "상주",
+    "slug": "sangju-yeongdeog",
+    "highway": "청주영덕선",
+    "direction": "영덕",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "의성",
+    "slug": "yiseong-ceongju",
+    "highway": "청주영덕선",
+    "direction": "청주",
+    "bestFood": "경양식돈가스",
+    "address": "경북 의성군 안계면새못안길 45-49"
+  },
+  {
+    "name": "의성",
+    "slug": "yiseong-yeongdeog",
+    "highway": "청주영덕선",
+    "direction": "영덕",
+    "bestFood": "경양식돈가스",
+    "address": "경북 의성군 안계면새못안길 45-47"
+  },
+  {
+    "name": "청송",
+    "slug": "ceongsong-ceongju",
+    "highway": "청주영덕선",
+    "direction": "청주",
+    "bestFood": "청송 사과돈까스",
+    "address": "경북 청송군 파천면중평병부길 203-92"
+  },
+  {
+    "name": "청송",
+    "slug": "ceongsong-yeongdeog",
+    "highway": "청주영덕선",
+    "direction": "영덕",
+    "bestFood": "청송사과돈까스",
+    "address": "경북 청송군 파천면중평병부길 203-115"
+  },
+  {
+    "name": "점곡",
+    "slug": "jeomgog-sangju",
+    "highway": "청주영덕선",
+    "direction": "상주",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "점곡",
+    "slug": "jeomgog-yeongdeog",
+    "highway": "청주영덕선",
+    "direction": "영덕",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "산청",
+    "slug": "sanceong-daejeon",
+    "highway": "통영대전선",
+    "direction": "대전",
+    "bestFood": "흑돼지소라찜",
+    "address": "경남 산청군 단성면방목리 산71-7"
+  },
+  {
+    "name": "산청",
+    "slug": "sanceong-tongyeong",
+    "highway": "통영대전선",
+    "direction": "통영",
+    "bestFood": "한방우불고기",
+    "address": "경남 산청군 단성면방목리 산68-7"
+  },
+  {
+    "name": "금산인삼랜드",
+    "slug": "geumsaninsamraendeu-daejeon",
+    "highway": "통영대전선",
+    "direction": "대전",
+    "bestFood": "(실속상품)ex-라면",
+    "address": "충남 금산군 군북면대암길 34-30"
+  },
+  {
+    "name": "금산인삼랜드",
+    "slug": "geumsaninsamraendeu-tongyeong",
+    "highway": "통영대전선",
+    "direction": "통영",
+    "bestFood": "능이버섯라면",
+    "address": "충남 금산군 군북면외부리 718"
+  },
+  {
+    "name": "덕유산",
+    "slug": "deogyusan-daejeon",
+    "highway": "통영대전선",
+    "direction": "대전",
+    "bestFood": "김치제육불범벅",
+    "address": "전라북도 무주군 안성면공진리 471"
+  },
+  {
+    "name": "덕유산",
+    "slug": "deogyusan-tongyeong",
+    "highway": "통영대전선",
+    "direction": "통영",
+    "bestFood": "사과돈가스",
+    "address": "전라북도 장수군 계북면통영대전고속도로 147"
+  },
+  {
+    "name": "고성공룡나라",
+    "slug": "goseonggongryongnara-daejeon",
+    "highway": "통영대전선",
+    "direction": "대전",
+    "bestFood": "흑돼지김치찌개",
+    "address": "경남 고성군 대가면신전리(통영대전고속도로) 67"
+  },
+  {
+    "name": "고성공룡나라",
+    "slug": "goseonggongryongnara-tongyeong",
+    "highway": "통영대전선",
+    "direction": "통영",
+    "bestFood": "흑돼지김치찌개",
+    "address": "경남 고성군 대가면송계리 447-7번지"
+  },
+  {
+    "name": "하남드림",
+    "slug": "hanamdeurim",
+    "highway": "중부선",
+    "direction": "",
+    "bestFood": "마방장터국밥",
+    "address": "경기 하남시 중부고속도로 117"
+  },
+  {
+    "name": "이천쌀",
+    "slug": "iceonssal-hanam",
+    "highway": "중부선",
+    "direction": "하남",
+    "bestFood": "한상돌솥비빔밥(이천한상)",
+    "address": "경기 이천시 신둔면서이천로853번길 346-129"
+  },
+  {
+    "name": "이천",
+    "slug": "iceon-nami",
+    "highway": "중부선",
+    "direction": "남이",
+    "bestFood": "오모리 흑돼지김치찌개",
+    "address": "경기 이천시 마장면목리 142"
+  },
+  {
+    "name": "오창",
+    "slug": "ocang-hanam",
+    "highway": "중부선",
+    "direction": "하남",
+    "bestFood": "설렁탕",
+    "address": "충북 청원군 오창면화산리 396-10"
+  },
+  {
+    "name": "오창",
+    "slug": "ocang-nami",
+    "highway": "중부선",
+    "direction": "남이",
+    "bestFood": "(실속상품)고추장찌개",
+    "address": "충북 청원군 오창면화산리 395-15"
+  },
+  {
+    "name": "음성",
+    "slug": "eumseong-hanam",
+    "highway": "중부선",
+    "direction": "하남",
+    "bestFood": "음성인삼 한우설렁탕",
+    "address": "충북 음성군 삼성면양덕리 100-1"
+  },
+  {
+    "name": "음성",
+    "slug": "eumseong-nami",
+    "highway": "중부선",
+    "direction": "남이",
+    "bestFood": "우거지한우국밥",
+    "address": "충북 음성군 삼성면용성리 산44"
+  },
+  {
+    "name": "마장",
+    "slug": "majang",
+    "highway": "중부선",
+    "direction": "",
+    "bestFood": "소고기국밥",
+    "address": "경기 이천시 마장면목리 산 13-32"
+  },
+  {
+    "name": "안성맞춤",
+    "slug": "anseongmajcum-pyeongtaeg",
+    "highway": "평택제천선",
+    "direction": "평택",
+    "bestFood": "안성맞춤국밥",
+    "address": "경기 안성시 서운면신능리 51-16 외 23필지"
+  },
+  {
+    "name": "안성맞춤",
+    "slug": "anseongmajcum-jeceon",
+    "highway": "평택제천선",
+    "direction": "제천",
+    "bestFood": "안성맞춤한우국밥",
+    "address": "경기 안성시 서운면신능리 51-11 외 29필지"
+  },
+  {
+    "name": "금왕",
+    "slug": "geumwang-pyeongtaeg",
+    "highway": "평택제천선",
+    "direction": "평택",
+    "bestFood": "인삼고추돈가스",
+    "address": "충북 음성군 금왕읍용계리"
+  },
+  {
+    "name": "금왕",
+    "slug": "geumwang-jeceon",
+    "highway": "평택제천선",
+    "direction": "제천",
+    "bestFood": "해물순두부찌개",
+    "address": "충북 음성군 금왕읍용계리 평택제천고속도로 70"
+  },
+  {
+    "name": "천등산",
+    "slug": "ceondeungsan-pyeongtaeg",
+    "highway": "평택제천선",
+    "direction": "평택",
+    "bestFood": "솥밥)고추장짜글이",
+    "address": "충북 충주시 산척면평택제천고속도로 109"
+  },
+  {
+    "name": "천등산",
+    "slug": "ceondeungsan-jeceon",
+    "highway": "평택제천선",
+    "direction": "제천",
+    "bestFood": "솥밥-고추장짜글이",
+    "address": "충북 충주시 산척면평택제천고속도로 106"
+  },
+  {
+    "name": "영산",
+    "slug": "yeongsan-cangweon",
+    "highway": "중부내륙선",
+    "direction": "창원",
+    "bestFood": "소고기장터국밥",
+    "address": "경남 창녕군 영산면신제리 1471-1"
+  },
+  {
+    "name": "칠서",
+    "slug": "cilseo-yangpyeong",
+    "highway": "중부내륙선",
+    "direction": "양평",
+    "bestFood": "육개장",
+    "address": "경남 함안군 칠서면계내리 35"
+  },
+  {
+    "name": "선산",
+    "slug": "seonsan-yangpyeong",
+    "highway": "중부내륙선",
+    "direction": "양평",
+    "bestFood": "묵은지 김치찌개",
+    "address": "경북 구미시 옥성면대원리 31-3"
+  },
+  {
+    "name": "선산",
+    "slug": "seonsan-cangweon",
+    "highway": "중부내륙선",
+    "direction": "창원",
+    "bestFood": "해물순두부찌개",
+    "address": "경북 구미시 옥성면대원리 85-1"
+  },
+  {
+    "name": "충주",
+    "slug": "cungju-yangpyeong",
+    "highway": "중부내륙선",
+    "direction": "양평",
+    "bestFood": "새뱅이해물순두부",
+    "address": "충북 충주시 중앙탑면 중부내륙고속도록 230-1"
+  },
+  {
+    "name": "충주",
+    "slug": "cungju-cangweon",
+    "highway": "중부내륙선",
+    "direction": "창원",
+    "bestFood": "충주(실속)사과돈가스",
+    "address": "충북 충주시 가금면용전리 산 50-3"
+  },
+  {
+    "name": "괴산",
+    "slug": "goesan-yangpyeong",
+    "highway": "중부내륙선",
+    "direction": "양평",
+    "bestFood": "표고버섯비빔밥",
+    "address": "충북 괴산군 장연면오가리 293-2"
+  },
+  {
+    "name": "괴산",
+    "slug": "goesan-cangweon",
+    "highway": "중부내륙선",
+    "direction": "창원",
+    "bestFood": "괴산올갱이국밥(명품먹거리)",
+    "address": "충북 괴산군 장연면오가리 103번지"
+  },
+  {
+    "name": "문경",
+    "slug": "mungyeong-yangpyeong",
+    "highway": "중부내륙선",
+    "direction": "양평",
+    "bestFood": "소고기국밥",
+    "address": "경북 문경시 유곡동458"
+  },
+  {
+    "name": "문경",
+    "slug": "mungyeong-cangweon",
+    "highway": "중부내륙선",
+    "direction": "창원",
+    "bestFood": "문경약돌돼지김치찌개",
+    "address": "경북 문경시 유곡동 중부내륙고속도로173460"
+  },
+  {
+    "name": "남성주참외",
+    "slug": "namseongjucamoe-cangweon",
+    "highway": "중부내륙선",
+    "direction": "창원",
+    "bestFood": "조선짬뽕",
+    "address": "경북 성주군 선남면명포리 880-5"
+  },
+  {
+    "name": "남성주참외",
+    "slug": "namseongjucamoe-yangpyeong",
+    "highway": "중부내륙선",
+    "direction": "양평",
+    "bestFood": "돼지고기김치찌개",
+    "address": "경북 성주군 용암면본리 428"
+  },
+  {
+    "name": "서여주",
+    "slug": "seoyeoju-yangpyeong",
+    "highway": "중부내륙선",
+    "direction": "양평",
+    "bestFood": "여주고구마등심돈까스",
+    "address": "경기 여주시 세종대왕면중부내륙고속도로 272"
+  },
+  {
+    "name": "서여주",
+    "slug": "seoyeoju-cangweon",
+    "highway": "중부내륙선",
+    "direction": "창원",
+    "bestFood": "여주고구마등심돈까스",
+    "address": "경기 여주시 세종대왕면중부내륙고속도로 271"
+  },
+  {
+    "name": "성주",
+    "slug": "seongju-yangpyeong",
+    "highway": "중부내륙선",
+    "direction": "양평",
+    "bestFood": "고추장제육볶음",
+    "address": "경북 성주군 초전면용봉리(중부내륙고속도로)"
+  },
+  {
+    "name": "성주",
+    "slug": "seongju-cangweon",
+    "highway": "중부내륙선",
+    "direction": "창원",
+    "bestFood": "김치찌개",
+    "address": "경북 성주군 초전면용봉리 산129-48"
+  },
+  {
+    "name": "용인",
+    "slug": "yongin-inceon",
+    "highway": "영동선",
+    "direction": "인천",
+    "bestFood": "콩고기더덕돌솥비빔밥",
+    "address": "경기도 용인시 고림동89번지"
+  },
+  {
+    "name": "용인",
+    "slug": "yongin-gangreung",
+    "highway": "영동선",
+    "direction": "강릉",
+    "bestFood": "미나리전복갈비탕",
+    "address": "경기도 용인시 고림동9번지"
+  },
+  {
+    "name": "여주",
+    "slug": "yeoju-inceon",
+    "highway": "영동선",
+    "direction": "인천",
+    "bestFood": "한식)매운돼지갈비찜",
+    "address": "경기도 여주시 가남읍화평길 116"
+  },
+  {
+    "name": "여주",
+    "slug": "yeoju-gangreung",
+    "highway": "영동선",
+    "direction": "강릉",
+    "bestFood": "용대리황태해장국",
+    "address": "경기 여주군 가남면본두리 687-1"
+  },
+  {
+    "name": "문막",
+    "slug": "munmag-inceon",
+    "highway": "영동선",
+    "direction": "인천",
+    "bestFood": "갈비탕",
+    "address": "강원 원주시 문막읍포진리"
+  },
+  {
+    "name": "횡성",
+    "slug": "hoengseong-inceon",
+    "highway": "영동선",
+    "direction": "인천",
+    "bestFood": "한우국밥",
+    "address": "강원 횡성군 안흥면영동고속도로 153"
+  },
+  {
+    "name": "횡성",
+    "slug": "hoengseong-gangreung",
+    "highway": "영동선",
+    "direction": "강릉",
+    "bestFood": "횡성한우국밥",
+    "address": "강원도 횡성군 안흥면 영동고속도로 154"
+  },
+  {
+    "name": "문막",
+    "slug": "munmag-gangreung",
+    "highway": "영동선",
+    "direction": "강릉",
+    "bestFood": "문막장터국밥",
+    "address": "강원 원주시 문막읍원문로 1234"
+  },
+  {
+    "name": "평창",
+    "slug": "pyeongcang-inceon",
+    "highway": "영동선",
+    "direction": "인천",
+    "bestFood": "한우우거지국밥",
+    "address": "강원 평창군 용평면이목정리"
+  },
+  {
+    "name": "평창",
+    "slug": "pyeongcang-gangreung",
+    "highway": "영동선",
+    "direction": "강릉",
+    "bestFood": "아바이순대국밥",
+    "address": "강원도 평창군 용평면이목정리 778-2"
+  },
+  {
+    "name": "강릉",
+    "slug": "gangreung-inceon",
+    "highway": "영동선",
+    "direction": "인천",
+    "bestFood": "오뎅꼬치우동",
+    "address": "강원도 강릉시 성산면보광리 산4-2"
+  },
+  {
+    "name": "강릉",
+    "slug": "gangreung-gangreung",
+    "highway": "영동선",
+    "direction": "강릉",
+    "bestFood": "뚝배기불고기",
+    "address": "강원도 강릉시 성산면보광리 산273"
+  },
+  {
+    "name": "덕평",
+    "slug": "deogpyeong",
+    "highway": "영동선",
+    "direction": "",
+    "bestFood": "특)덕평소고기국밥",
+    "address": "경기 이천시 마장면각평리 319"
+  },
+  {
+    "name": "홍천강",
+    "slug": "hongceongang-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "얼큰황태순두부_주물솥밥",
+    "address": "강원도 홍천군 북방면소매곡리 294"
+  },
+  {
+    "name": "치악",
+    "slug": "ciag-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "등심돈가스",
+    "address": "강원 원주시 신림면금창리(치악로)416 치악(부산)휴게소"
+  },
+  {
+    "name": "치악",
+    "slug": "ciag-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "봉화산설렁탕",
+    "address": "강원도 원주시 신림면금창리 500-55"
+  },
+  {
+    "name": "안동",
+    "slug": "andong-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "이동삼안동간고등어정식",
+    "address": "경북 안동시 풍산읍계평리 산547-6"
+  },
+  {
+    "name": "안동",
+    "slug": "andong-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "이동삼안동간고등어정식",
+    "address": "경북 안동시 풍산읍계평리 산128-2"
+  },
+  {
+    "name": "군위",
+    "slug": "gunwi-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "의성마늘 돈가스",
+    "address": "대구광역시 군위군 군위읍오곡리 산67-5"
+  },
+  {
+    "name": "군위",
+    "slug": "gunwi-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "의성마늘 돈가스",
+    "address": "대구광역시 군위군 군위읍경북대로 4082"
+  },
+  {
+    "name": "단양팔경",
+    "slug": "danyangpalgyeong-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "금강설렁탕",
+    "address": "충청북도 단양군 적성면기동리 산74-1"
+  },
+  {
+    "name": "단양팔경",
+    "slug": "danyangpalgyeong-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "마늘 왕 돈가스",
+    "address": "충청북도 단양군 단성면하방리 56"
+  },
+  {
+    "name": "춘천",
+    "slug": "cunceon-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "춘천버섯닭갈비정식",
+    "address": "강원 춘천시 동내면 사암리산112-1"
+  },
+  {
+    "name": "동명",
+    "slug": "dongmyeong-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "돌솥비빔밥 된장찌개",
+    "address": "경북 칠곡군 동명면 중앙고속도로 122"
+  },
+  {
+    "name": "동명",
+    "slug": "dongmyeong-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "유부우동",
+    "address": "경북 칠곡군 동명면가천리 120-2"
+  },
+  {
+    "name": "원주",
+    "slug": "weonju-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "뽕잎콩나물비빔밥",
+    "address": "강원 원주시 호저면옥산리 211"
+  },
+  {
+    "name": "원주",
+    "slug": "weonju-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "한우소고기국밥",
+    "address": "강원 원주시 호저면옥산리 219-1"
+  },
+  {
+    "name": "영주",
+    "slug": "yeongju-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "영주",
+    "slug": "yeongju-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "제천",
+    "slug": "jeceon-cunceon",
+    "highway": "중앙선",
+    "direction": "춘천",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "제천",
+    "slug": "jeceon-busan",
+    "highway": "중앙선",
+    "direction": "부산",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "홍천",
+    "slug": "hongceon-seoul",
+    "highway": "서울양양선",
+    "direction": "서울",
+    "bestFood": "사과왕돈가스",
+    "address": "강원특별자치도 홍천군 화촌면서울양양고속도로 83"
+  },
+  {
+    "name": "홍천",
+    "slug": "hongceon-yangyang",
+    "highway": "서울양양선",
+    "direction": "양양",
+    "bestFood": "닭갈비화로구이",
+    "address": "강원특별자치도 홍천군 화촌면서울양양고속도로 84"
+  },
+  {
+    "name": "동해",
+    "slug": "donghae-samceog",
+    "highway": "동해선(삼척-속초)",
+    "direction": "삼척",
+    "bestFood": "오늘은제육볶음",
+    "address": "강원도 동해시 망상동산5-1"
+  },
+  {
+    "name": "옥계",
+    "slug": "oggye-sogco",
+    "highway": "동해선(삼척-속초)",
+    "direction": "속초",
+    "bestFood": "묵은지돼지김치찜정식",
+    "address": "강원 강릉시 옥계면도직리 산2-2"
+  },
+  {
+    "name": "구정",
+    "slug": "gujeong-sogco",
+    "highway": "동해선(삼척-속초)",
+    "direction": "속초",
+    "bestFood": "황태해장국",
+    "address": "강원 강릉시 구정면동해고속도로 346"
+  },
+  {
+    "name": "구정",
+    "slug": "gujeong-samceog",
+    "highway": "동해선(삼척-속초)",
+    "direction": "삼척",
+    "bestFood": "육개장",
+    "address": "강원 강릉시 구정면제비리 888"
+  },
+  {
+    "name": "양양",
+    "slug": "yangyang-donghae",
+    "highway": "동해선(삼척-속초)",
+    "direction": "동해",
+    "bestFood": "",
+    "address": "강원 양양군 현남면남애리 산 42-1"
+  },
+  {
+    "name": "양양",
+    "slug": "yangyang-sogco",
+    "highway": "동해선(삼척-속초)",
+    "direction": "속초",
+    "bestFood": "",
+    "address": "강원 양양군 현남면남애리 산 42-1"
+  },
+  {
+    "name": "외동",
+    "slug": "oedong-pohang",
+    "highway": "동해선(부산-포항)",
+    "direction": "포항",
+    "bestFood": "천년한우국밥",
+    "address": "경북 경주시 외동읍상석길 58-70"
+  },
+  {
+    "name": "외동",
+    "slug": "oedong-busan",
+    "highway": "동해선(부산-포항)",
+    "direction": "부산",
+    "bestFood": "[명품]해양산 우동돼지국밥",
+    "address": "경상북도 경주시 외동읍 내외로 577-189상석길 58-74"
+  },
+  {
+    "name": "양북임시",
+    "slug": "yangbugimsi-sang",
+    "highway": "동해선(부산-포항)",
+    "direction": "상",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "양북임시",
+    "slug": "yangbugimsi-ha",
+    "highway": "동해선(부산-포항)",
+    "direction": "하",
+    "bestFood": "",
+    "address": "경북 경주시 양북면용동리 산241-7"
+  },
+  {
+    "name": "의왕",
+    "slug": "yiwang-ilsan",
+    "highway": "수도권제1순환선",
+    "direction": "일산",
+    "bestFood": "생면식감 라면",
+    "address": "경기 의왕시 청계동안양판교로 476 의왕(청계)휴게소"
+  },
+  {
+    "name": "서하남행복드림쉼터",
+    "slug": "seohanamhaengbogdeurimswimteo",
+    "highway": "수도권제1순환선",
+    "direction": "",
+    "bestFood": "꼬치어묵우동",
+    "address": "경기 하남시 춘궁동212"
+  },
+  {
+    "name": "구리",
+    "slug": "guri-ilsan",
+    "highway": "수도권제1순환선",
+    "direction": "일산",
+    "bestFood": "흑돼지버섯제육볶음",
+    "address": "경기 구리시 사노동170-13 구리고속도로휴게소"
+  },
+  {
+    "name": "장유",
+    "slug": "jangyu-seobusan",
+    "highway": "남해2지선",
+    "direction": "서부산",
+    "bestFood": "통영해물순두부찌개",
+    "address": "경남 김해시 장유면부곡리 53-1"
+  },
+  {
+    "name": "부여백제",
+    "slug": "buyeobaegje-gongju",
+    "highway": "서천공주선",
+    "direction": "공주",
+    "bestFood": "표고버섯된장찌개",
+    "address": "충남 부여군 내산면율암리 149-5"
+  },
+  {
+    "name": "부여백제",
+    "slug": "buyeobaegje-seoceon",
+    "highway": "서천공주선",
+    "direction": "서천",
+    "bestFood": "표고버섯된장찌개",
+    "address": "충남 부여군 내산면율암리  134"
+  },
+  {
+    "name": "청양",
+    "slug": "ceongyang-seoceon",
+    "highway": "서천공주선",
+    "direction": "서천",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "청양",
+    "slug": "ceongyang-gongju",
+    "highway": "서천공주선",
+    "direction": "공주",
+    "bestFood": "",
+    "address": ""
+  },
+  {
+    "name": "벌곡",
+    "slug": "beolgog-daejeon",
+    "highway": "호남지선",
+    "direction": "대전",
+    "bestFood": "왕돈가스",
+    "address": "충남 논산시 벌곡면양산리124-1"
+  },
+  {
+    "name": "벌곡",
+    "slug": "beolgog-nonsan",
+    "highway": "호남지선",
+    "direction": "논산",
+    "bestFood": "벌곡닭갈비",
+    "address": "충남 논산시 벌곡면호남지선고속도로25"
+  },
+  {
+    "name": "현풍",
+    "slug": "hyeonpung-daegu",
+    "highway": "중부내륙지선",
+    "direction": "대구",
+    "bestFood": "창녕양파제육&된장찌개",
+    "address": "대구광역시 달성군 현풍면성하리 342"
+  },
+  {
+    "name": "현풍",
+    "slug": "hyeonpung-cangweon",
+    "highway": "중부내륙지선",
+    "direction": "창원",
+    "bestFood": "더덕비빔밥＆된장찌개",
+    "address": "대구 달성군 현풍면성하리 286"
+  }
+]

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getAllRestAreas, getRestAreasGroupedByHighwayType } from '@/lib/data';
+import { getAllRestAreas } from '@/lib/data/rest-areas';
+import { getRestAreasGroupedByHighwayType } from '@/lib/data/grouped';
 import { HIGHWAY_TYPE_META } from '@/lib/types';
 
 export const metadata: Metadata = {
