@@ -6,6 +6,7 @@ import { useState } from 'react';
 
 const navItems = [
   { label: '고속도로', href: '/highway' },
+  { label: '지역별', href: '/region' },
   { label: '휴게소', href: '/rest-area' },
   { label: '맛집', href: '/food' },
   { label: '명절 특집', href: '/holiday' },
