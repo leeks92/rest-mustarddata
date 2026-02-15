@@ -66,6 +66,7 @@ jobs:
             "https://rest.mustarddata.com/highway/",
             "https://rest.mustarddata.com/rest-area/",
             "https://rest.mustarddata.com/food/",
+            "https://rest.mustarddata.com/holiday/",
             "https://rest.mustarddata.com/sitemap.xml"
           ]'
 
@@ -94,6 +95,7 @@ jobs:
             "https://rest.mustarddata.com/highway/"
             "https://rest.mustarddata.com/rest-area/"
             "https://rest.mustarddata.com/food/"
+            "https://rest.mustarddata.com/holiday/"
           )
 
           # JWT 생성

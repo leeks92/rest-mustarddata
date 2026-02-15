@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
-import { getAllRestAreas, getAllHighways } from '@/lib/data';
+import { getAllRestAreas } from '@/lib/data/rest-areas';
+import { getAllHighways } from '@/lib/data/highways';
 
 export const dynamic = 'force-static';
 
@@ -32,6 +33,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${BASE_URL}/food`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
+      priority: 0.9,
+    },
+    {
+      url: `${BASE_URL}/holiday`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
       priority: 0.9,
     },
   ];

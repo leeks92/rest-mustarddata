@@ -1,4 +1,6 @@
-import { getAllRestAreas, getAllHighways, getMetadata, getPopularRestAreas } from '@/lib/data';
+import { getAllHighways } from '@/lib/data/highways';
+import { getMetadata } from '@/lib/data/metadata';
+import { getPopularRestAreas } from '@/lib/data/popular';
 
 // output: 'export' 호환을 위한 설정
 export const dynamic = 'force-static';
@@ -51,6 +53,16 @@ export async function GET() {
       <link>${BASE_URL}/food</link>
       <guid>${BASE_URL}/food</guid>
       <description><![CDATA[전국 고속도로 휴게소의 대표 음식과 맛집 정보를 확인하세요. 휴게소별 인기 메뉴와 가격 정보를 제공합니다.]]></description>
+      <pubDate>${lastUpdated}</pubDate>
+    </item>`);
+
+  // 명절 특집 페이지
+  items.push(`
+    <item>
+      <title><![CDATA[명절 연휴 고속도로 휴게소 완벽 가이드 - 설날·추석 추천 맛집·편의시설]]></title>
+      <link>${BASE_URL}/holiday</link>
+      <guid>${BASE_URL}/holiday</guid>
+      <description><![CDATA[설날·추석 명절 연휴 고속도로 여행 가이드. 노선별 추천 휴게소, 명절 인기 맛집(호두과자·돈가스·국밥), 가족 편의시설(수유실·샤워실·전기차충전) 정보.]]></description>
       <pubDate>${lastUpdated}</pubDate>
     </item>`);
 
