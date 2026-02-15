@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getAllHighways } from '@/lib/data/highways';
 import { getMetadata } from '@/lib/data/metadata';
 import { getPopularRestAreas } from '@/lib/data/popular';
+import { getAllRegions } from '@/lib/data/regions';
 import { getSearchableRestAreas } from '@/lib/data/search';
 import SearchForm from '@/components/SearchForm';
 import JsonLd from '@/components/JsonLd';
@@ -10,6 +11,7 @@ export default function HomePage() {
   const highways = getAllHighways();
   const metadata = getMetadata();
   const popularAreas = getPopularRestAreas(12);
+  const regions = getAllRegions();
 
   const websiteJsonLd = {
     '@context': 'https://schema.org',
@@ -90,6 +92,30 @@ export default function HomePage() {
                   <span className="block text-sm text-gray-500">{hw.restAreas.length}개 휴게소</span>
                 </div>
                 <span className="text-emerald-500">→</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+
+        {/* 지역별 휴게소 */}
+        <section className="mb-12">
+          <div className="flex items-center justify-between mb-6">
+            <h2 className="text-2xl font-bold text-gray-900">
+              📍 지역별 휴게소
+            </h2>
+            <Link href="/region" className="text-sm text-emerald-600 hover:text-emerald-700 font-medium">
+              전체보기 →
+            </Link>
+          </div>
+          <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3">
+            {regions.map(region => (
+              <Link
+                key={region.slug}
+                href={`/region/${region.slug}`}
+                className="flex flex-col items-center p-4 bg-white border border-gray-200 rounded-xl hover:border-emerald-400 hover:shadow-md transition-all"
+              >
+                <span className="font-bold text-gray-900">{region.shortName}</span>
+                <span className="text-xs text-gray-500 mt-1">{region.count}개</span>
               </Link>
             ))}
           </div>
